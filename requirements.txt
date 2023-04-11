@@ -7,9 +7,9 @@ humanize
 idna
 pip
 requests
-json
-setuptools
-sqlparse
-tzdata
+
+
+
+
 urllib3
 gunicorn==20.1.0
